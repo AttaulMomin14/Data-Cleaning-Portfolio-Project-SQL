@@ -1,0 +1,11 @@
+# Data-Cleaning-Portfolio-Project-SQL
+
+I started this project by converting the data type of a column from Date/Time to Date.
+
+Next Step: Filling the NULL values in the column by using Self-Join
+
+Next Step: Splitting the Address Column into Multiple Columns using various String Functions like 'Substring', 'CharIndex', 'Len', 'ParseName'.
+
+Next Step: Removing Duplicates by using CTE (Common Table Expressions) and Row_Number() Function.
+
+Next Step: Altering and Updating the required columns.
