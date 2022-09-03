@@ -1,6 +1,6 @@
 # Data-Cleaning-Portfolio-Project-SQL
 
-I started this project by converting the data type of a column from Date/Time to Date.
+I started this project by converting the data type of a column from 'Date/Time' to 'Date'.
 
 Next Step: Filling the NULL values in the column by using Self-Join
 
